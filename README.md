@@ -1,4 +1,5 @@
-<img width="1279" height="587" alt="download" src="https://github.com/user-attachments/assets/d7b5a7e9-f353-48a0-af63-e515ca5828ba" />
+<img width="640" height="360" alt="download (1)" src="https://github.com/user-attachments/assets/8d8a7f7a-70c6-4d23-8bb1-afd253b23a2a" />
+
 
 <!--
 **ByThejas/ByThejas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
