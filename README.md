@@ -1,1 +1,7 @@
-<img width="1920" height="1080" alt="9070324cdfc07c68d60eed0c39e77573_gif 1,920×1,080 pixels" src="https://github.com/user-attachments/assets/94631f43-c0c7-4d1b-a589-490d7d033b7c" />
+<div align="center">
+  <img src="download.gif" width="100%" />
+  <br />
+  <br />
+  <H4>Visitor Count</H4>
+  <img src="https://count.getloli.com/get/@sumedev?theme=original-new" />
+</div>
